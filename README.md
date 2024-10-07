@@ -30,7 +30,6 @@
 
 ###
 
-
 <div align="left">
   <a href="https://www.youtube.com/@blue-terminal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -38,4 +37,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-![Progetto senza titolo](https://github.com/user-attachments/assets/50129dc7-924e-4811-820f-a8a2fdbddb9f)
+###
+
+<img src="https://raw.githubusercontent.com/blue-termina/blue-termina/output/snake.svg" alt="Snake animation" />
+
+###
