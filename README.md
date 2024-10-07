@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###![Progetto senza titolo](https://github.com/user-attachments/assets/159e7457-7363-4fa6-bb1a-969bca909c30)
+###
 
 
 <div align="left">
@@ -37,4 +37,4 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
-
+![Progetto senza titolo](https://github.com/user-attachments/assets/159e7457-7363-4fa6-bb1a-969bca909c30)
