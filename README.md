@@ -37,8 +37,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/blue-termina/blue-termina/output/snake.svg" alt="Snake animation" />
-
-###
