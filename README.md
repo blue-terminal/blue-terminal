@@ -39,8 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/blue-termina/blue-termina/output/snake.svg" alt="Snake animation" />
-
-###
