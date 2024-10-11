@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ programmer<br>🐱‍💻 cryptography<br>👨‍💻 Ethical virus</p>
+<p align="left">✨ programmer<br>🐱‍💻 cryptography<br>👨‍💻 Ethical malwere</p>
 
 ###
 
