@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ programmer<br>🐱‍💻 cryptography<br>👨‍💻 Ethical malwere</p>
+<p align="left">✨ programmer<br>🐱‍💻 cryptography<br>👨‍💻 Ethical virus</p>
 
 ###
 
@@ -34,8 +34,15 @@
   <a href="https://www.youtube.com/@blue-terminal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://t.me/blue_terminal_official_haking" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/blue-termina/blue-termina/output/snake.svg" alt="Snake animation" />
+
+###
