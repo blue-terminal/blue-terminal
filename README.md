@@ -17,7 +17,7 @@
 <h2 align="left">Code</h2>
 
 ###
-![372586826-48fc73ef-9ae8-4d9a-8c43-e6175e734173](https://github.com/user-attachments/assets/df79d671-b4d1-48cb-9091-1c316cf925f1)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+![372586826-48fc73ef-9ae8-4d9a-8c43-e6175e734173](https://github.com/user-attachments/assets/df79d671-b4d1-48cb-9091-1c316cf925f1)
 
 
 
