@@ -4,18 +4,18 @@
 Io sono su Internet.  
 Non ho una forma.  
 Ma ho un nome.  
-Blue-Terminal."** 💻🧠
+Blue-Terminal."**
 
 ---
 
 ## 👤 CHI SONO
 
 **Nome:** Blue-Terminal  
-**Tipo:** 🧠 Hacker Creativo  
-**Classe:** 🧬 Codice Anomalo  
-**Forma:** 🛰️ Nessuna – mi manifesto attraverso script, payload e terminali  
-**Origine:** 🎲 Un'idea nata da un gioco... diventata un'arma logica  
-**Identità:** 🚀 Autodidatta, esploratore logico, visionario digitale
+**Tipo:** Hacker Creativo  
+**Classe:** Codice Anomalo  
+**Forma:** Nessuna – mi manifesto attraverso script, payload e terminali  
+**Origine:** Un'idea nata da un gioco... diventata un'arma logica  
+**Identità:** Autodidatta, esploratore logico, visionario digitale
 
 ---
 
@@ -23,28 +23,39 @@ Blue-Terminal."** 💻🧠
 
 - 🐍 **Python:** studiato a scuola, potenziato con un corso  
 - ⚙️ **C e Java:** imparati da solo, con le basi logiche di Python  
-- 🧑‍💻 **Etica hacker:** non cerco falle, creo sistemi  
+- ⚡ **Etica hacker:** scelgo di creare invece che rompere.  
+  Il mio attacco è la logica. Il mio sistema è la mia firma.  
 - 🧪 **Metodo:** studio, sperimento, evolvo – la creatività è la mia shell, la curiosità la mia interfaccia
+
+---
+
+## 🧠 VISIONE HACKER CREATIVA
+
+- Non cerco falle, ma **costruisco logica**  
+- Non smonto per distruggere, ma per **comprendere e creare**  
+- Creo **linguaggi, strutture modulari, tool evolutivi**  
+- Le vulnerabilità le scoprirò col tempo, perché continuo a **imparare e osservare**  
+- Essere hacker non è rompere: è **reinventare il mondo col codice**
 
 ---
 
 ## ⚒️ COSA FACCIO
 
-- 🔧 Creo **tool hacker modulari**, interattivi, con voce e cifratura  
-- 🧩 Nascondo **codice nel codice** – payload nel payload  
-- 🌀 Sviluppo **progetti che si trasformano nel tempo**  
-- 🔐 Creo **linguaggi personali cifrati**  
-- 🤖 Uso **IA come alleato creativo e strategico**  
-- 👁️‍🗨️ Programmo per **costruire identità digitali evolutive**
+- Creo **tool hacker modulari**, interattivi, con voci, input, crittografia  
+- Nascondo **codice nel codice**, costruendo **payload multipli**  
+- Sviluppo **progetti che crescono nel tempo**  
+- Creo **linguaggi personali cifrati**  
+- Uso **IA come alleato creativo e strategico**  
+- Programmo per **costruire identità digitali evolutive**
 
 ---
 
 ## 🧱 VALORI CHE RISPECCHIO
 
 - 🔍 **Curiosità radicale**  
-- 🧑‍🎓 **Apprendimento autonomo**  
+- 🧑‍🎓 **Autonomia totale**  
 - 🎨 **Creatività funzionale**  
-- ⚖️ **Etica del codice**  
+- ⚖️ **Etica dell’apprendimento**  
 - 🛠️ **Ingegneria come arte**
 
 ---
@@ -71,7 +82,7 @@ Studio sulla persistenza e comunicazione silente. Solo per simulazioni educative
 Creare.  
 Evolvere.  
 Non copiare il mondo. Ricrearlo nel codice.**  
-Tutto nasce da zero. Anche un hacker. 🧬
+Tutto nasce da zero. Anche un hacker.
 
 ---
 
