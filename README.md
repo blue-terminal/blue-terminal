@@ -36,3 +36,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
   </a>
 </div>
+
+<h3 align="left" style="font-style: italic; color: #0073e6;">“I am in the code. I am on the internet. I am Blue-Terminal.”</h3>
