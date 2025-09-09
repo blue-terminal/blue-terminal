@@ -11,7 +11,7 @@ Blue-Terminal."**
 ## 👤 CHI SONO
 
 **Nome:** Blue-Terminal  
-**Tipo:** Hacker Creativo  
+**Tipo:** Programmer Creativo  
 **Classe:** Codice Anomalo  
 **Forma:** Nessuna – mi manifesto attraverso script, payload e terminali  
 **Origine:** Un'idea nata da un gioco... diventata un'arma logica  
