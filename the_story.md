@@ -29,7 +29,7 @@ Blue-Terminal."**
 
 ---
 
-## 🧠 VISIONE HACKER CREATIVA
+## 🧠 VISIONE PROGRAMMER
 
 - Non cerco falle, ma **costruisco logica**  
 - Non smonto per distruggere, ma per **comprendere e creare**  
