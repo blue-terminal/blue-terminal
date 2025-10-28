@@ -56,7 +56,6 @@ Blue-Terminal."**
 - 🧑‍🎓 **Autonomia totale**  
 - 🎨 **Creatività funzionale**  
 - ⚖️ **Etica dell’apprendimento**  
-- 🛠️ **Ingegneria come arte**
 
 ---
 
