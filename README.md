@@ -5,7 +5,7 @@
 <h2 align="left">
   My hobby<br>
   Hi, I’m Blue-Terminal! I'm passionate about programming and always eager to take on new challenges to sharpen my skills. I specialize in cryptography and creating secure, efficient solutions. In my free time, I contribute to open-source projects and share my knowledge with the community.<br><br>
-  If you love coding and cryptography, you’ve come to the right place!
+  If you like coding and cryptography, you’ve come to the right place!
 </h2>
 
 <p align="left">
