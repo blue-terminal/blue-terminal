@@ -45,13 +45,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blue-terminal/blue-terminal/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=blue-terminal.blue-terminal&left_color=blue&right_color=black&left_text=valore%20"  />
-</div>
-
-###
 
 
 
